@@ -1,5 +1,6 @@
 # solaireis.github.io
-sad times
+prototyping portfolio website for fun
+
 
 
 folder structure reference:
