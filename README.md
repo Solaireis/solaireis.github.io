@@ -1,5 +1,6 @@
 # solaireis.github.io
-prototyping portfolio website for fun
+prototyping portfolio website for self interest
+
 
 
 
