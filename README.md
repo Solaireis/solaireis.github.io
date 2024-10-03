@@ -2,7 +2,19 @@
 prototyping portfolio website for self interest
 
 
+## Running the Application
+
+> cd docs
+>
+> npm install
+> 
+> npm run build-css
+> 
+> npm run build-js
+>
+> npm run watch-css
 
 
-folder structure reference:
+## folder structure reference:
+- Folder structure DevDojo:
 https://static.devdojo.com/docs/guides/folder-structure/ 
