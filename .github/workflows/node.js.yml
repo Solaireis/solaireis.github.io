@@ -27,10 +27,10 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - uses: actions/setup-node@v4
-    - name: Setup node 
+    - name: Setup node ${{ matrix.node-version }}
       with:
         cache-dependency-path: docs/package-lock.json
-        node-version: 20
+        node-version: ${{ matrix.node-version }}
         cache: 'npm'
         
     - run: npm ci 
