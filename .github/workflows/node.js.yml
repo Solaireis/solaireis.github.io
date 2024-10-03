@@ -27,7 +27,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - uses: actions/setup-node@v4
-    - name: Setup node ${{ matrix.node-version }}
       with:
         cache-dependency-path: docs/package-lock.json
         node-version: ${{ matrix.node-version }}
