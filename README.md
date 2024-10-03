@@ -4,9 +4,7 @@ prototyping portfolio website for self interest
 
 ## Running the Application
 
-> cd docs
->
-> npm install
+> npm ci
 > 
 > npm run build-css
 > 
