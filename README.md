@@ -8,9 +8,7 @@ prototyping portfolio website for self interest
 > 
 > npm run build-css
 > 
-> npm run build-js
->
-> npm run watch-css
+
 
 
 ## folder structure reference:
